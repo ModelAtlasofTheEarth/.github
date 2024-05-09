@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Model Atlas of the Earth (M@TE) is a project supported by AuScope, supporting FAIR data practicies in relation to computational models of the Earth. In line with our funding, the scope of the M@TE is promariliy models of the rocky earth: tectonics/geodynamics, hydrogeology and surface processes. 
+The Model Atlas of the Earth (M@TE) is a project funded by AuScope, dedicated to fostering FAIR data practices for computational models of the Earth's structure and processes. M@TE primarily addresses models related to the study of the rocky Earth, including: tectonics and geodynamics, geothermal systems, surface processes, hydrogeology, geotechnical engineering, and reservoir-scale simulation.
 
 M@TE consists of: 
 
