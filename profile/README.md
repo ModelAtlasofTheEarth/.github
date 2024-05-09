@@ -6,9 +6,7 @@ M@TE consists of:
 
 * The M@TE model collection, hosted on the [National Computational Infrastructure](geonetwork.nci.org.au)
 * digital infrastructure to support the generation of rich metadata (e.g. github.com/ModelAtlasofTheEarth)
-* The [M@TE website](http://mate.science), exposing computational models to a broad audience.
-
-The model submission process (for details, see github.com/ModelAtlasofTheEarth/model_submission) generates a comprehensive metadata document, utilising the principles of the RO-Crate project.
+* The [M@TE website](http://mate.science), exposing computational models to a broad audience
 
 
 🌈 Contribution guidelines - how can the community get involved?
