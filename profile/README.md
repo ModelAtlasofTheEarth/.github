@@ -13,6 +13,6 @@ M@TE consists of:
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
-M@TE collection on NCI ![Static Badge](https://img.shields.io/badge/DOI-10.25914%2Fyrzp--g882-blue)
 
-M@TE collection on NCI ! [![DOI](https://img.shields.io/badge/DOI-10.25914%2Fyrzp--g882-blue)](http://dx.doi.org/10.25914/yrzp-g882)
+
+M@TE collection on NCI (coming soon) ! [![DOI](https://img.shields.io/badge/DOI-10.25914%2Fyrzp--g882-blue)](http://dx.doi.org/10.25914/yrzp-g882)
