@@ -15,4 +15,4 @@ M@TE consists of:
 
 
 
-M@TE collection on NCI (coming soon) ! [![DOI](https://img.shields.io/badge/DOI-10.25914%2Fyrzp--g882-blue)](http://dx.doi.org/10.25914/yrzp-g882)
+The M@TE collection on NCI [![DOI](https://img.shields.io/badge/DOI-10.25914%2Fyrzp--g882-blue)](http://dx.doi.org/10.25914/yrzp-g882)
